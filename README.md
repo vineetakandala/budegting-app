@@ -1,2 +1,2 @@
 # budegting-app
-A simple budgeting app to keep track of incomes and expenses. Created using JavaScript.
+A simple budgeting app created using JavaScript. Features include adding and deleting incomes and expenses and displaying percentage of income spent.
